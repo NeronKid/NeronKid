@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NeronKid
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on learning Java
-- 📫 How to reach me @NeronKid on telegram 
+- 🌱 I’m coding on Java
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me: @NeronKid on telegram 
 
 <!---
 NeronKid/NeronKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
